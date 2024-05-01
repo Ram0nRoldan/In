@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Edu NSW ACT Foundation";
+  }
+  .ima {
+    background-color: white;
+  display: block;
+  margin-top: 50px; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px; 
+  max-width: 100%; 
+  height: auto; 
+}
+
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/fondo.gif');
+    background-size: cover; /* Ajusta el tamaño de la imagen al tamaño del contenedor */
+    background-position: center; /* Centra la imagen */
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+header img{
+    width: 700px; 
+    height: auto; 
+    image-orientation: left;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+
+main img {
+    width: 200px; /* Cambia el tamaño de la imagen según lo necesites */
+    height: auto; /* Mantiene la proporción de aspecto */
+    image-orientation:flip
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+
+}
+
+footer img {
+    width: 100px; /* Cambia el tamaño de la imagen según lo necesites */
+    height: auto; /* Mantiene la proporción de aspecto */
+    image-orientation: left;
+}
+
+.container {
+    /* Estilos para tu contenido */
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para que el texto sea legible */
+}
