@@ -3,6 +3,7 @@
     padding: 0;
     font-family: "Edu NSW ACT Foundation";
   }
+
   .ima {
     background-color: blue;
     display: block;
@@ -10,10 +11,14 @@
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
-    width: 100%; /* Adaptar imagen al ancho del contenedor */
-    height: auto; /* Permitir ajuste proporcional de altura */
     text-align: center; /* Centrar horizontalmente la imagen */
-  }
+}
+
+.ima img {
+    width: 100%; /* Establecer el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Permitir que la altura se ajuste proporcionalmente */
+}
+
 
   body {
     margin: 0;
