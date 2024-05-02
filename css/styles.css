@@ -71,3 +71,22 @@ footer img {
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente para que el texto sea legible */
 }
+
+
+.car {
+    width: 90%; 
+    max-width: 600px; 
+    margin-top: 50px; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px; 
+  }
+  
+  
+  .car img {
+    max-width: 100%; 
+    height: auto; 
+    display: block;
+    margin: 0 auto; 
+  }
+  
