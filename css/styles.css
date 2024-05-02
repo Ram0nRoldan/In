@@ -91,3 +91,9 @@ footer img {
     margin: 0 auto; 
   }
   
+
+  .regresiva {
+    text-align: center; /* Para centrar el texto */
+    font-size: 4em;; /* Tamaño de fuente grande */
+    margin-top: 20px; /* Espacio superior */
+}
