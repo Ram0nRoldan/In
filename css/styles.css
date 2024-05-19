@@ -1,8 +1,10 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Dancing Scrip",  cursive;
-  }
+    font-family: "Dancing Script", cursive;
+    font-weight: 400; /* Ajusta el peso de la fuente según sea necesario */
+    font-style: normal;
+}
 
   .ima {
     display: block;
