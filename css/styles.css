@@ -121,11 +121,19 @@ footer img {
 }
 
 .p2 {
-    color: #2f4f4f; /* Cambia este valor al color que desees */
+    color: #d88d1d; /* Cambia este valor al color que desees */
     font-family: 'Dancing Script'; /* Cambia la fuente según tu preferencia */
     font-weight: 1000; /* Ajusta el peso de la fuente si es necesario */
     font-size: 30px;;
 }
+
+.p3 {
+    color: #aa67ab; /* Cambia este valor al color que desees */
+    font-family: 'Dancing Script'; /* Cambia la fuente según tu preferencia */
+    font-weight: 1000; /* Ajusta el peso de la fuente si es necesario */
+    font-size: 30px;;
+}
+
 
 
 /* Media Queries */
