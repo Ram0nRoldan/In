@@ -113,9 +113,15 @@ footer img {
     font-size: 2em; /* Tamaño de fuente grande */
    
     
-    margin: 20px auto; /* Añade margen automático y un margen superior */
+    margin: 10px auto; /* Añade margen automático y un margen superior */
     position: relative; /* Ajusta la posición para que se mantenga en el flujo del documento */
     top: 0; /* Ajusta para estar en la parte superior */
     right: 0;
     left: 0;
+}
+
+.special-text {
+    color: #ff6347; /* Cambia este valor al color que desees */
+    font-family: 'Dancing Script', cursive; /* Cambia la fuente según tu preferencia */
+    font-weight: 700; /* Ajusta el peso de la fuente si es necesario */
 }
