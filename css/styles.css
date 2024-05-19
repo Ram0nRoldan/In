@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "Edu NSW ACT Foundation";
+    font-family: "Dancing Scrip",  cursive;
   }
 
   .ima {
@@ -22,7 +22,7 @@
   body {
     margin: 0;
     padding: 0;
-    background-image: url('../assets/fondo.gif');
+    background-image: url('../assets/Fondo1\ \(2\).jpg');
     background-size: cover; /* Ajusta el tamaño de la imagen al tamaño del contenedor */
     background-position: center; /* Centra la imagen */
 }
@@ -30,7 +30,9 @@
 header {
     padding: 20px;
     text-align: center;
-    color: aliceblue;
+    color: rgb(30, 58, 83);
+
+    
 }
 
 header img{
@@ -41,7 +43,8 @@ header img{
 main {
     padding: 20px;
     text-align: center;
-    color: aliceblue;
+    color: rgb(30, 58, 83);
+    font-size: 20px;
     
 }
 
@@ -55,7 +58,7 @@ main img {
 footer {
     padding: 20px;
     text-align: center;
-    color: aliceblue;
+    color: rgb(30, 58, 83);
 
 }
 
@@ -92,8 +95,25 @@ footer img {
   }
   
 
-  .regresiva {
+  .regresivaa {
     text-align: center; /* Para centrar el texto */
-    font-size: 4em;; /* Tamaño de fuente grande */
-    margin-top: 20px; /* Espacio superior */
+    font-size: 3em;; /* Tamaño de fuente grande */
+    background-image: url('../assets/plim10.webp');
+    background-size:0cqmax;
+    background-position: center; /* Centra la imagen */
+}
+
+.regresiva {
+    display: flex; /* Activa flexbox */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
+    text-align: center; /* Centra el texto dentro del contenedor */
+    font-size: 2em; /* Tamaño de fuente grande */
+   
+    
+    margin: 20px auto; /* Añade margen automático y un margen superior */
+    position: relative; /* Ajusta la posición para que se mantenga en el flujo del documento */
+    top: 0; /* Ajusta para estar en la parte superior */
+    right: 0;
+    left: 0;
 }
