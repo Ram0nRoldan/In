@@ -106,11 +106,24 @@ footer img {
     font-weight: 700; /* Ajusta el peso de la fuente si es necesario */
 }
 
+.special-text2 {
+    color: #219779; /* Cambia este valor al color que desees */
+    font-family: 'Dancing Script', cursive; /* Cambia la fuente según tu preferencia */
+    font-weight: 700; /* Ajusta el peso de la fuente si es necesario */
+}
+
 .special-text1 {
     color: #219779; /* Cambia este valor al color que desees */
     font-family: 'Dancing Script', cursive; /* Cambia la fuente según tu preferencia */
     font-weight: 1000; /* Ajusta el peso de la fuente si es necesario */
     font-size: 30px;
+}
+
+.mja {
+color: rgb(30, 58, 83); /* Cambia este valor al color que desees */
+font-family: 'Dancing Script', cursive; /* Cambia la fuente según tu preferencia */
+font-weight: 1000; /* Ajusta el peso de la fuente si es necesario */
+font-size: 30px;
 }
 
 .p1 {
